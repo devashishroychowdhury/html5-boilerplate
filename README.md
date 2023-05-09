@@ -41,7 +41,7 @@ If you want to help us _improve_ HTML5 Boilerplate then you can start with the d
 ## Quick Start
 
 Choose one of the following options:
-
+* Make sure to install nodejs in your pc before getting started, by visiting this link https://nodejs.org/en/download you can download and run scripts on your terminal given below.  
 * Using the [create-html5-boilerplate](https://github.com/h5bp/create-html5-boilerplate)
   script, instantly fetch the latest npm published package (or any version
   available on npm) with `npx`, `npm init` or `yarn create` without having to
